@@ -261,10 +261,59 @@ This chart shows the hours when we talk the most, morning (8 AM–11 AM) and eve
 </details>
 
 ## 📊 Final Report  
-Download the full PowerPoint presentation made to my church [here](./TPH Data Analysis Report.pptx).
+Download the full PowerPoint presentation made to my church [here](TPH Data Analysis Report.pptx).
 
+Absolutely, Mowa. Here's a polished **"Feedback from Stakeholders"** section you can copy into your `README.md` file, with grouped and organized highlights for clarity and professionalism:
+
+---
+
+### 🗣️ Feedback from Stakeholders
+
+Here are some reviews and comments received from TPH members and leaders after sharing the WhatsApp Group Data Analysis report:
+
+#### **General Feedback**
+
+* *"This is an interesting read. Well done."* — **Victoria TPH**, **Pst. Dami**, **Dr. David Ochogbe**
+* *"Well done ma."* — **GPD**, **Taye**, **Rotimi TPH**, **Uncle Tim**
+* *"Nice work sis."* — **Davou**, **Wisdom Juliet**, **Isaac**
+* *"Great job, Mowa!"* — **Salamatu TPH**
+* *"Really beautiful, thank you ma."* — **Shalom TPH**
+* *"This is so good. Visually appealing. Very professional."* — **KC**
+* *"Outstanding work. I couldn’t look away!"* — **The Love Odeh**
+* *"This is so concise and profound."* — **Ibflame**
+* *"Amazing stuff."* — **+234 811 968 8252**
+* *"Thank you so much Ma. I love this!"* — **Tinaobiye**
+
+#### **Engagement & Humor**
+
+* *"The analysis actually Dae on Point!"* — **Jaay**
+* *"I had a smile on my face from start to finish."* — **Shalom TPH**
+* *"More birthdays to celebrate!"* — **Mr. Watsawda TPH**
+* *"How did my name enter your analytics report?"* — **Patricia Osifo Media**
+* *"I see why this message came by 8am."* — **Jaay**
+
+#### **Professional Remarks**
+
+* *"The data was concise, and I love your recommendation at the end."* — **Sharon Black**
+* *"I saw trends I had noticed and even new ones."* — **Patricia Osifo Media**
+* *"It's actually a good one. Thank you."* — **Oma TPH**
+* *"This is an interesting and insightful work I must say. Good job!"* — **Uncle Tim**
+* *"Quite insightful."* — **+234 814 476 7945**
+
+#### **Pastoral Feedback**
+
+* *"Wow. This is really insightful. Do you want to share with the group?"* — **My Daddy TPH**
+* *"Go ahead please. Well done."* — **My Daddy TPH**
+* *"Kudos sis. The data expert in the biubui!"* — **My Mummy Mrs T**
+
+#### **Inquiries**
+
+* *"I didn’t see the code on your repo..."* — **Ogbuti**
+* *"Where did you get the data? Was it exported from the group?"* — **Patricia Osifo Media**
+* *"Also really interested in the code too."* — **Patricia Osifo Media**
+
+---
 </details>
-
 ## Recommendations & Conclusions:
 <details>
   <summary>Click to expand</summary>
