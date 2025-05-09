@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3ae4e41-9ce3-41ab-b496-8151f0aa7002)<h1 style="text-align: center;">TPH WhatsApp Group Analysis</h1>
+![image](https://github.com/user-attachments/assets/bc00ec51-f3a9-47ea-8cd5-5d3c74eb98b3)![image](https://github.com/user-attachments/assets/a3ae4e41-9ce3-41ab-b496-8151f0aa7002)<h1 style="text-align: center;">TPH WhatsApp Group Analysis</h1>
 
 <div align="center">
   <img src="The Publishers House Image.jpg"="The TPH Image" width="500" height="400">
@@ -201,7 +201,7 @@ It is visually clear that ‘Happy Birthday’, ‘birthday sir/ma’, ‘God bl
 
 <img src="Charts/top7_active.png" alt="Top Contributors Chart" width="700">
 
-> The group has a core of highly active participants who drive conversations. Dr. Josh, Zemnaan, and Sharon stand out for their consistent engagement on the group over the last four months. It's also encouraging to see other contributors like Rotimi, Pope Delvan(449), Genesis (432), etc..
+The group has a core of highly active participants who drive conversations. Dr. Josh, Zemnaan, and Sharon stand out for their consistent engagement on the group over the last four months. It's also encouraging to see other contributors like Rotimi, Pope Delvan(449), Genesis (432), etc.
 
 ---
 
@@ -213,7 +213,7 @@ It is visually clear that ‘Happy Birthday’, ‘birthday sir/ma’, ‘God bl
 | Positive | 36.05%        | Birthday wishes, prayers, encouragement |
 | Negative | 2.87%         | Mostly teasing or light sarcasm         |
 
-<img src="Charts/tone_distribution.png" alt="Tone Distribution Chart" width="700">
+<img src="Charts/tone_distribution.png" alt="Tone Distribution Chart" width="600">
 
 > The group culture is **joyful, supportive, and honor-driven**, with almost no hostility.
 
@@ -224,7 +224,7 @@ It is visually clear that ‘Happy Birthday’, ‘birthday sir/ma’, ‘God bl
 * **Median Response Time:** 0.00 minutes
 * **Average Response Time:** 13.48 minutes
 
-> Over 50% of replies happen **instantly**, indicating real-time engagement and attentiveness.
+> This means that most members reply almost immediately, showing that the group is very active and quick to respond. A few slower replies increase the average to 13 minutes, but overall, the group chats are lively and responsive.
 
 ---
 
@@ -234,7 +234,17 @@ It is visually clear that ‘Happy Birthday’, ‘birthday sir/ma’, ‘God bl
 * **Active Senders:** 231 (84.31%)
 * **Inactive Members:** 43 (15.69%)
 
+<img src="Charts/group_partcipation.png" alt="Group Participation Chart" width="500">
+
 > **High Engagement:** More than 8 in 10 members actively participate — a strong, healthy community.
+
+---
+
+### 8. **Message Activity By Hour Of The Day**
+
+<img src="Charts/msg_byhour.png" alt="Message Activity By Hour Chart" width="700">
+
+This chart shows the hours when we talk the most, morning (8 AM–11 AM) and evening (8 PM–10 PM). Purple bars highlight the top 7 most active hours, while blue bars show the quieter times.
 
 ---
 
