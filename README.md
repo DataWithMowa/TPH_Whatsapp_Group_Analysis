@@ -260,9 +260,8 @@ This chart shows the hours when we talk the most, morning (8 AM–11 AM) and eve
 > If community health could be measured in chats, this group scores **extremely high** — a model for joyful digital communities.
 </details>
 
-## Final Report
-Download the full PowerPoint presentation made to my church here:  
-[TPH_Report.pptx](TPH_Report.pptx)
+## 📊 Final Report  
+Download the full PowerPoint presentation made to my church [here](./TPH Data Analysis Report.pptx).
 
 </details>
 
@@ -288,5 +287,5 @@ It’s a beautiful reminder that what goes on, on the group matters.
 </details>
 
 ## Thank you for reading! 😊
-You can reach me on +234 9056 1876 on WhatsApp only!
+You can reach me on +234 9056 1876 (WhatsApp only)
 
