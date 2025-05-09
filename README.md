@@ -340,6 +340,6 @@ It’s a beautiful reminder that what goes on, on the group matters.
 
 </details>
 
-## Thank you for reading! 😊
+## 😊 Thank you for reading! 
 You can reach me on +234 9056 1876 (WhatsApp only)
 
