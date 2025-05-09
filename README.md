@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">TPH WhatsApp Group Analysis</h1>
+![image](https://github.com/user-attachments/assets/a3ae4e41-9ce3-41ab-b496-8151f0aa7002)<h1 style="text-align: center;">TPH WhatsApp Group Analysis</h1>
 
 <div align="center">
   <img src="The Publishers House Image.jpg"="The TPH Image" width="500" height="400">
@@ -152,20 +152,13 @@ Just click the links below to view or run the notebooks:
 
 ## Key Questions & Insights
 
-### 1. **Duplicate & Common Messages**
+### 1. **Most Common Messages**
 
-Frequent phrases reflect the culture of the group:
+It is visually clear that ‘Happy Birthday’, ‘birthday sir/ma’, ‘God bless’, and ‘prayer’ dominate the conversations as seen below.
+ <img src="Charts/word_cloud_plot.png" alt="Most Common Words Chart" width="600">
 
-| Message                          | Frequency |
-| -------------------------------- | --------- |
-| Happy birthday ma                | 15        |
-| Happy birthday ma 🎊             | 8         |
-| Happy birthday ma'am             | 8         |
-| Welcome sir                      | 6         |
-| Thank you                        | 5         |
-| 📌📌📌📌... (emphasis/pin emoji) | 4+        |
+> **Insight:** This group is celebratory, polite, and structured — honorifics like *ma* and *sir* are frequently used. This shows our group’s strong culture of celebration, encouragement, and spiritual connection.
 
-> **Insight:** This group is celebratory, polite, and structured — honorifics like *ma* and *sir* are frequently used.
 
 ---
 
@@ -174,11 +167,13 @@ Frequent phrases reflect the culture of the group:
 * **Total birthday-related messages:** 3,205 (out of 15,349)
 * **Top Birthday Wishers:**
 
-  * Patricia TPH – 76
-  * +234 906 355 8217 – 74
+  * Patricia Osifo – 76
+  * ThankGod Watsawda – 74
   * Sally TPH – 68
   * Maram Mary – 68
-  * +234 816 650 9713 – 65
+  * Okoko Lawrencia – 65 as seen below
+ <img src="Charts/top_wish_senders_plot.png" alt="Top Birthday Wishers Chart" width="700">
+    
 
 > Patricia is the most enthusiastic birthday celebrator in the group.
 
@@ -186,15 +181,7 @@ Frequent phrases reflect the culture of the group:
 
 ### 3. **Weekly Activity Trends**
 
-| Day       | Messages           |
-| --------- | ------------------ |
-| Monday    | 1,507              |
-| Tuesday   | 2,260              |
-| Wednesday | 2,879    ✅ Highest |
-| Thursday  | 2,252              |
-| Friday    | 2,157              |
-| Saturday  | 1,747              |
-| Sunday    | 2,447              |
+ <img src="Charts/msg_byday.png" alt="Weekly Activity Chart" width="700">
 
 > **Insight:** Midweek (especially Wednesdays) is the group’s peak for engagement.
 
@@ -208,11 +195,13 @@ Frequent phrases reflect the culture of the group:
 | Zemmy                  | 880        |
 | Sharon                 | 751        |
 | Rotimi Hardeyemi TPH   | 498        |
-| +234 704 331 1441      | 449        |
-| +234 814 552 6877      | 432        |
+| Pope Delvan      | 449        |
+| Genesis      | 432        |
 | Ms. Mowaninuola Meghan | 406      ✅ |
 
-> The group has a core of highly active participants who drive conversations.
+<img src="Charts/top7_active.png" alt="Top Contributors Chart" width="700">
+
+> The group has a core of highly active participants who drive conversations. Dr. Josh, Zemnaan, and Sharon stand out for their consistent engagement on the group over the last four months. It's also encouraging to see other contributors like Rotimi, Pope Delvan(449), Genesis (432), etc..
 
 ---
 
@@ -223,6 +212,8 @@ Frequent phrases reflect the culture of the group:
 | Neutral  | 61.08%        | Coordination, planning, casual banter   |
 | Positive | 36.05%        | Birthday wishes, prayers, encouragement |
 | Negative | 2.87%         | Mostly teasing or light sarcasm         |
+
+<img src="Charts/tone_distribution.png" alt="Tone Distribution Chart" width="700">
 
 > The group culture is **joyful, supportive, and honor-driven**, with almost no hostility.
 
