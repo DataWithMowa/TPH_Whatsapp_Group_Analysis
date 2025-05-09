@@ -261,10 +261,7 @@ This chart shows the hours when we talk the most, morning (8 AM–11 AM) and eve
 </details>
 
 ## 📊 Final Report  
-Download the full PowerPoint presentation made to my church [here](TPH Data Analysis Report.pptx).
-
-Absolutely, Mowa. Here's a polished **"Feedback from Stakeholders"** section you can copy into your `README.md` file, with grouped and organized highlights for clarity and professionalism:
-
+Download the full PowerPoint presentation made to my church [here](https://docs.google.com/presentation/d/1C9xJ_AVLdV3OLRPPvCxuOrPzkOqrZ8aU/edit?usp=sharing&ouid=110569010279715783988&rtpof=true&sd=true).
 ---
 
 ### 🗣️ Feedback from Stakeholders
