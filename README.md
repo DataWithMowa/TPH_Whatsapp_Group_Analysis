@@ -268,7 +268,6 @@ This chart shows the hours when we talk the most, morning (8 AM–11 AM) and eve
 Download the full PowerPoint presentation made to my church [here](https://docs.google.com/presentation/d/1C9xJ_AVLdV3OLRPPvCxuOrPzkOqrZ8aU/edit?usp=sharing&ouid=110569010279715783988&rtpof=true&sd=true).
 
 </details>
----
 
 ## 🗣️ Feedback from Stakeholders
 <details>
@@ -319,7 +318,6 @@ Here are some reviews and comments received from TPH members and leaders after s
 * *"Also really interested in the code too."* — **Patricia Osifo Media**
 
 </details>
----
 
 ## Recommendations & Conclusions:
 <details>
