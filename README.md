@@ -268,6 +268,9 @@ Absolutely, Mowa. Here's a polished **"Feedback from Stakeholders"** section you
 ---
 
 ### 🗣️ Feedback from Stakeholders
+<details>
+  <summary>Click to expand</summary>
+ <br> 
 
 Here are some reviews and comments received from TPH members and leaders after sharing the WhatsApp Group Data Analysis report:
 
