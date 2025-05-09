@@ -260,11 +260,17 @@ This chart shows the hours when we talk the most, morning (8 AM–11 AM) and eve
 > If community health could be measured in chats, this group scores **extremely high** — a model for joyful digital communities.
 </details>
 
-## 📊 Final Report  
+## 📊 Final Report 
+<details>
+  <summary>Click to expand</summary>
+ <br> 
+
 Download the full PowerPoint presentation made to my church [here](https://docs.google.com/presentation/d/1C9xJ_AVLdV3OLRPPvCxuOrPzkOqrZ8aU/edit?usp=sharing&ouid=110569010279715783988&rtpof=true&sd=true).
+
+</details>
 ---
 
-### 🗣️ Feedback from Stakeholders
+## 🗣️ Feedback from Stakeholders
 <details>
   <summary>Click to expand</summary>
  <br> 
@@ -312,8 +318,9 @@ Here are some reviews and comments received from TPH members and leaders after s
 * *"Where did you get the data? Was it exported from the group?"* — **Patricia Osifo Media**
 * *"Also really interested in the code too."* — **Patricia Osifo Media**
 
----
 </details>
+---
+
 ## Recommendations & Conclusions:
 <details>
   <summary>Click to expand</summary>
