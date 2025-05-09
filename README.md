@@ -264,23 +264,6 @@ This chart shows the hours when we talk the most, morning (8 AM–11 AM) and eve
 Download the full PowerPoint presentation made to my church here:  
 [TPH_Report.pptx](TPH_Report.pptx)
 
-## Key Insights Summary
-<details>
-  <summary>Click to expand</summary>
- <br>
-
-🎉 High positive engagement: 36% of messages are positive, 61% neutral.
-
-⏱️ Instant response culture: Median reply time is 0 minutes.
-
-👥 Active community: 84% of members are active.
-
-🥳 Birthday wishes dominate: Over 3,000 messages are birthday-related.
-
-📅 Wednesdays peak in activity, followed by Sundays and Tuesdays.
-
-🗣️ Core contributors drive most interactions.
-
 </details>
 
 ## Recommendations & Conclusions:
@@ -305,4 +288,5 @@ It’s a beautiful reminder that what goes on, on the group matters.
 </details>
 
 ## Thank you for reading! 😊
+You can reach me on +234 9056 1876 on WhatsApp only!
 
