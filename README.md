@@ -4,7 +4,7 @@
   <img src="The Publishers House Image.jpg"="The TPH Image" width="500" height="400">
 </div>
 
-## Introduction: 
+## 📖 Introduction: 
 <details>
   <summary>Click to expand</summary>
   <br>
@@ -20,7 +20,7 @@ This project is a data analysis of the group. It looks at things like how often 
 
 </details>
 
-## Project Objective:
+## 🎯 Project Objective:
 <details>
   <summary>Click to expand</summary>
  <br>
@@ -39,7 +39,7 @@ The goal of this project is to provide answers to the following questions:
 It’s a look into what our group chats reveal about us as a spiritual family.
 </details>
 
-## How to Run The Source Code Locally:
+## 🖥️ How to Run The Source Code Locally:
 <details>
   <summary>Click to expand</summary>
 
@@ -122,7 +122,7 @@ Just click the links below to view or run the notebooks:
   
 </details>
 
-## Exploratory Data Analysis (EDA) & Insights
+## 🔍 Exploratory Data Analysis (EDA) & Insights
 <details>
   <summary>Click to expand</summary>
   <br>
@@ -319,7 +319,7 @@ Here are some reviews and comments received from TPH members and leaders after s
 
 </details>
 
-## Recommendations & Conclusions:
+## ✅ Recommendations & Conclusions:
 <details>
   <summary>Click to expand</summary>
  <br>  
