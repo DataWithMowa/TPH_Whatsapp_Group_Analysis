@@ -1,8 +1,22 @@
 <h1 style="text-align: center;">🚀 The Publishers House WhatsApp Group Analysis</h1>
 
+<h1 style="text-align: center; font-size: 2.5em; font-weight: bold; color: #333;">
+    🚀 The Publishers House WhatsApp Group Analysis
+</h1>
+
 <div align="center">
   <img src="The Publishers House Image.jpg"="The TPH Image" width="500" height="400">
 </div>
+
+<div align="center">
+    <img src="The Publishers House Image.jpg" alt="The TPH Image" width="500" height="400" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+</div>
+
+<div align="center">
+    <img src="The Publishers House Image.jpg" alt="The TPH Image" style="width: 80%; max-width: 500px; height: auto; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+</div>
+
+
 
 ## 📖 Introduction: 
 <details>
