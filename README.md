@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bc00ec51-f3a9-47ea-8cd5-5d3c74eb98b3)![image](https://github.com/user-attachments/assets/a3ae4e41-9ce3-41ab-b496-8151f0aa7002)<h1 style="text-align: center;">TPH WhatsApp Group Analysis</h1>
+<h1 style="text-align: center;">TPH WhatsApp Group Analysis</h1>
 
 <div align="center">
   <img src="The Publishers House Image.jpg"="The TPH Image" width="500" height="400">
@@ -57,7 +57,7 @@ The dataset used for this project was exported from our church’s WhatsApp grou
 
 ### Data and Configuration
 
-You can find all the data files used in this project in the `Dataset/` directory of this repository. This folder contains:
+You can find all the data files used in this project in the `Datasets/` directory of this repository. This folder contains:
 
 * **TPH Data Zip File**: The raw WhatsApp export file from our church group, downloaded directly using WhatsApp's "Export Chat" feature.
 * **Text File**: The `.txt` file extracted from the ZIP, which contains the raw message data. You can find it inside the Zip file folder
@@ -259,6 +259,10 @@ This chart shows the hours when we talk the most, morning (8 AM–11 AM) and eve
 
 > If community health could be measured in chats, this group scores **extremely high** — a model for joyful digital communities.
 </details>
+
+## Final Report
+Download the full PowerPoint presentation made to my church here:  
+[TPH_Report.pptx](TPH_Report.pptx)
 
 ## Key Insights Summary
 <details>
